@@ -33,4 +33,18 @@ p { margin-top: 2em;
 
 a{ margin: 2em auto 4em auto ;
   display: table;
+  color: white
+  font-family: "arial", sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0.5em;
+  background-color: black;
 }
+
+
+a:hover:{background-color: darkred; }
+
+
+
+
+a:active{ backround color: red;}
