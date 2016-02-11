@@ -1,0 +1,18 @@
+body  {
+   background-color: red;}
+
+
+h1 {
+  color: #0000FF;
+font-family: sans-serif;
+ font-size: 72px;
+ text align: center;
+background-color: gold}
+
+  img{ width: 70%
+      max-width:500px
+      height: auto
+      Text-align: center;
+      margin: 0 auto 0 auto;
+      text-align: center;
+      }
